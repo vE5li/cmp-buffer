@@ -1,5 +1,9 @@
 # cmp-buffer
 
+> [!IMPORTANT]
+> I have switched to `blink.cmp` and I can only advise others to do the same.
+Unfortunately, I was not able to get these changes merged before that, so instead of deleting it, I will archive this repository.
+
 nvim-cmp source for buffer words.
 
 ## Setup
